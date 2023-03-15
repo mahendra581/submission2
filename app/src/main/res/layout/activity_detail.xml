@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:screenOrientation="portrait"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".DetailActivity"
+    android:weightSum="1">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_height="300dp">
+
+        <ImageView
+            android:id="@+id/rv_image"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            card_view:layout_constraintVertical_bias="0.064"
+            tools:ignore="MissingConstraints"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            card_view:layout_constraintBottom_toBottomOf="@id/tv_description"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="180dp"
+            tools:ignore="MissingConstraints"
+            card_view:layout_constraintVertical_bias="0.291"
+            tools:text="@string/name"
+            android:fontFamily="@font/poppinsbolditalic"
+            android:textSize="30sp"
+            android:textColor="#FF000000"
+            />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="60dp"
+            android:ellipsize="end"
+            android:maxLines="10"
+            android:layout_marginTop="400dp"
+            card_view:layout_constraintBottom_toBottomOf="@id/tv_name"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintHorizontal_bias="0.498"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            card_view:layout_constraintVertical_bias="0.373"
+            tools:text="@string/description"
+            android:justificationMode="inter_word"
+            android:fontFamily="@font/poppinsmedium"
+            android:textColor="#FF000000"/>
+
+        <TextView
+            android:id="@+id/tv_cause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="60dp"
+            android:ellipsize="end"
+            android:maxLines="10"
+            android:layout_marginTop="570dp"
+            card_view:layout_constraintBottom_toBottomOf="@id/tv_description"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintHorizontal_bias="0.498"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            card_view:layout_constraintVertical_bias="0.373"
+            tools:text="@string/description"
+            android:justificationMode="inter_word"
+            android:fontFamily="@font/poppinsmedium"
+            android:textColor="#FF000000"/>
+
+        <TextView
+            android:id="@+id/tv_blank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="60dp"
+            android:ellipsize="end"
+            android:maxLines="10"
+            android:layout_marginTop="750dp"
+            card_view:layout_constraintBottom_toBottomOf="@id/tv_description"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintHorizontal_bias="0.498"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            card_view:layout_constraintVertical_bias="0.373"
+            tools:text="@string/description"
+            android:justificationMode="inter_word"
+            android:fontFamily="@font/poppinsmedium"
+            android:textColor="#FF000000"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

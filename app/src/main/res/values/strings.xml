@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">DISEASE</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="name">Nama Penyakit</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="myname">MAHENDRA ADI RAHMAWAN</string>
+    <string name="myemail">rahmawan581@gmail.com</string>
+    <string name="more">MORE</string>
+    <string name="detail_name">MENU DETAIL</string>
+    <string name="detail_about">MENU ABOUT</string>
+    <string-array name="data_name">
+        <item>Cerebral Palsy</item>
+        <item>Diabetes</item>
+        <item>Jantung Koroner</item>
+        <item>Stroke</item>
+        <item>Vertigo</item>
+        <item>Kanker</item>
+        <item>Tuberkulosis</item>
+        <item>Tifus</item>
+        <item>DBD</item>
+        <item>Amnesia</item>
+        <item>Asma</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Cerebral palsy adalah Suatu kelainan kongenital pada gerakan, otot, atau postur. Cerebral palsy disebabkan oleh perkembangan otak yang tidak normal, sering kali sebelum lahir. Gejala termasuk refleks berlebihan, anggota badan yang lemas atau kaku, dan gerakan tak terkendali. Ini muncul di anak usia dini.   </item>
+        <item>Diabetes adalah penyakit kronis yang ditandai dengan tingginya kadar gula darah. Kadar gula (glukosa) dalam darah dikendalikan oleh hormon insulin yang diproduksi pankreas. Namun, pada penderita diabetes, pankreas tidak mampu memproduksi insulin sesuai kebutuhan tubuh. Tanpa insulin, sel-sel tubuh tidak dapat menyerap dan mengolah glukosa menjadi energi.</item>
+        <item>Penyakit jantung koroner adalah kondisi ketika arteri koroner tersumbat oleh timbunan lemak. Penyakit ini menimbulkan keluhan berupa nyeri dada, sesak napas, dan gejala serangan jantung. Jika dibiarkan, penyakit jantung koroner dapat menyebabkan gagal jantung.</item>
+        <item>Stroke adalah kondisi ketika pasokan darah ke otak terganggu karena penyumbatan (stroke iskemik) atau pecahnya pembuluh darah (stroke hemoragik). Kondisi ini menyebabkan area tertentu pada otak tidak mendapat suplai oksigen dan nutrisi sehingga terjadi kematian sel-sel otak.</item>
+        <item>Vertigo adalah kondisi yang membuat penderitanya mengalami pusing hingga merasa dirinya atau sekelilingnya berputar. Meski sering kali dianggap sebagai suatu penyakit, vertigo sebenarnya merupakan gejala dari penyakit atau kondisi lain.</item>
+        <item>Kanker adalah penyakit yang disebabkan oleh pertumbuhan sel abnormal yang tidak terkendali di dalam tubuh. Pertumbuhan sel abnormal ini dapat merusak sel normal di sekitarnya dan di bagian tubuh yang lain.</item>
+        <item>Tuberkulosis (TBC)  atau TB adalah penyakit menular akibat infeksi bakteri. TBC umumnya menyerang paru-paru, tetapi juga dapat menyerang organ tubuh lain, seperti ginjal, tulang belakang, dan otak.</item>
+        <item>Tifus atau typhus adalah penyakit yang disebabkan oleh bakteri Rickettsia dan Orientia. Penyakit ini dapat menular melalui gigitan kutu atau tungau yang terinfeksi. Tifus bisa menimbulkan demam, sakit kepala, hingga ruam merah di kulit.</item>
+        <item>Demam Berdarah Dengue adalah penyakit yang ditularkan oleh nyamuk yang terjadi di daerah tropis dan subtropis di dunia. Untuk demam berdarah ringan, maka ia akan menyebabkan demam tinggi dan gejala seperti flu. Sementara untuk demam berdarah yang parah, ia bisa menyebabkan pendarahan serius, penurunan tekanan darah secara tiba-tiba (syok) dan bahkan kematian.</item>
+        <item>Amnesia atau hilang ingatan adalah gangguan yang menyebabkan seseorang tidak bisa mengingat fakta, informasi, atau kejadian yang pernah dialaminya. Meski bersifat ringan, gangguan daya ingat akibat amnesia juga bisa mengganggu kehidupan penderitanya.</item>
+        <item>Asma adalah penyakit kronis pada saluran pernapasan yang ditandai dengan sesak akibat peradangan dan penyempitan pada saluran napas. Asma dapat diderita oleh semua golongan usia, baik muda maupun tua.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://mysiloam-api.siloamhospitals.com/public-asset/website-cms/website-cms-16710088567723656.webp</item>
+        <item>https://mysiloam-api.siloamhospitals.com/public-asset/website-cms/website-cms-16684539860186719.webp</item>
+        <item>https://rspermata.co.id/data/uploads/5afb218de5d049a7aa22f18e82b6d2f9.png</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1589838507/attached_image/stroke-0-alodokter.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1675127792/attached_image/vertigo-0-alodokter.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1595847671/attached_image/penyakit-kanker-0-alodokter.jpg</item>
+        <item>https://img.antaranews.com/cache/800x533/2014/05/20140524tbc-.jpg.webp</item>
+        <item>https://cdn-2.tstatic.net/bali/foto/bank/images/ilustrasi-bakteri-salmonella-typhi.jpg</item>
+        <item>https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2021/06/27064803/Demam-Berdarah.jpg.webp</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1649928116/attached_image/amnesia-0-alodokter.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1619051718/attached_image/asma-0-alodokter.jpg</item>
+    </string-array>
+
+    <string-array name="data_date">
+        <item>20 Januari 2021</item>
+        <item>15 Februai 2021</item>
+        <item>21 Maret 2021</item>
+        <item>22 April 2021</item>
+        <item>27 Mei 2021</item>
+        <item>25 Juni 2021</item>
+        <item>30 Juli 2021</item>
+        <item>12 Agustus 2021</item>
+        <item>5 September 2021</item>
+        <item>2 Oktober 2021</item>
+        <item>22 November 2021</item>
+    </string-array>
+
+    <string-array name="data_cause">
+        <item>Cerebral palsy atau lumpuh otak disebabkan oleh gangguan perkembangan otak pada anak, yang menyebabkan gangguan pergerakan dan postur tubuh. Selain itu, kondisi ini juga dapat menimbulkan gangguan kecerdasan. Cerebral palsy umumnya terjadi pada masa kehamilan, tetapi juga dapat terjadi saat proses persalinan, atau beberapa tahun pertama setelah anak lahir. Penyebanya yaitu Gangguan pada masa kehamilan, Gangguan pasca persalinan. </item>
+        <item>Diabetes tipe 1 terjadi ketika sistem kekebalan tubuh secara keliru menyerang dan menghancurkan sel-sel pankreas yang memproduksi insulin. Hal ini menyebabkan kadar glukosa darah meningkat sehingga memicu kerusakan pada organ-organ tubuh. Gejalanya seperti Sering merasa haus atau sangat lapar Sering buang air kecil, terutama pada malam hari Penurunan berat badan tanpa sebab yang jelas Penurunan massa otot Pandangan kabur Urine mengandung keton Tubuh mudah lelah.</item>
+        <item>Penyakit jantung koroner terjadi ketika aliran darah ke jantung terhambat. Banyak faktor yang bisa meningkatkan risiko tersebut, antara lain merokok, menjalani pola makan yang tidak sehat, atau menderita penyakit tertentu, seperti tekanan darah tinggi dan kolesterol tinggi. Penyakit jantung koroner dapat ditandai dengan gejala sesak napas, lemas, dan nyeri dada yang menjalar ke lengan atau punggung.</item>
+        <item>Gejala stroke umumnya terjadi di bagian tubuh yang dikendalikan oleh area otak yang rusak. Gejala yang dialami penderita stroke bisa meliputi: Lemah pada otot-otot wajah yang membuat satu sisi wajah turun Kesulitan mengangkat kedua lengan akibat lemas atau mati rasa Kesulitan berbicara Disartria Kesemutan. pencegahan stroke hampir sama dengan cara mencegah penyakit jantung, yaitu dengan menerapkan pola hidup sehat.</item>
+        <item>Berdasarkan penyebabnya, vertigo terbagi menjadi dua, yakni vertigo perifer dan sentral. Vertigo perifer disebabkan oleh gangguan pada telinga bagian dalam. Kondisi yang dapat menimbulkan vertigo antara lain benign paroxysmal positional vertigo (BPPV), labirinitis, penyakit Meniere, atau sindrom Ramsay Hunt. Sementara itu, vertigo sentral terjadi akibat gangguan pada otak. Gangguan tersebut dapat disebabkan oleh stroke.</item>
+        <item>Penyebab utama kanker adalah perubahan (mutasi) genetik pada sel sehingga sel tersebut tumbuh tidak normal. Sebenarnya, tubuh memiliki mekanisme sendiri untuk menghancurkan sel abnormal ini. Namun, bila mekanisme tersebut gagal, maka sel abnormal akan tumbuh secara tidak terkendali. Faktor yang dapat memicu pertumbuhan sel kanker berbeda-beda, tergantung pada jenis kankernya. Meski demikian, tidak ada jenis kanker.</item>
+        <item>Penularan tuberkulosis (TBC) terjadi ketika seseorang tidak sengaja menghirup percikan ludah (droplet) saat seseorang yang terinfeksi TBC bersin atau batuk. Oleh sebab itu, risiko penularan penyakit ini lebih tinggi pada orang yang tinggal serumah dengan penderita TBC. TBC pada paru-paru akan menimbulkan gejala berupa batuk lebih dari 3 minggu yang dapat disertai dahak atau darah.</item>
+        <item>Tifus epidemik Tifus epidemik banyak terjadi di Amerika Tengah, Amerika Selatan, Afrika, dan Cina Utara. Orang yang sembuh dari tifus epidemik tetap berisiko terinfeksi kembali. 2. Tifus endemik Tifus endemik atau murin banyak terjadi di Amerika Serikat. Bakteri penyebab tifus murin dapat menular melalui kutu pada tikus. Jenis tifus ini jarang menyebabkan infeksi berulang.</item>
+        <item>Demam berdarah disebabkan oleh salah satu dari empat jenis virus dengue. Kamu tidak bisa terkena penyakit ini karena berada di sekitar orang yang terinfeksi sebab penyakit ini ditularkan melalui gigitan nyamuk. Dua nyamuk yang bisa menularkan virus ini adalah Aedes aegypti dan Aedes albopictus. Penyebabnya Cedera pada kepala, misalnya akibat kecelakaan Ensefalitis atau peradangan otak Kejang Tumor otak Penyakit </item>
+        <item>Amnesia disebabkan oleh kerusakan pada bagian sistem limbik yang ada di otak. Sistem limbik merupakan bagian yang berperan dalam mengatur ingatan dan emosi seseorang. Amnesia anterograde Amnesia jenis ini membuat penderitanya sulit membentuk ingatan baru. Gangguan ingatan yang dialami penderita amnesia anterograde dapat bersifat sementara</item>
+        <item>Meskipun penyebabnya belum diketahui secara pasti, ada beberapa hal yang kerap menjadi pemicu asma, yaitu: Asap rokok Debu Bulu hewan Udara dingin Infeksi virus Paparan zat kimia. Pengobatannya yaitu Menjalani vaksinasi influenza dan pneumonia secara teratur Mengetahui pemicu munculnya gejala asma dan menghindarinya Melakukan pemeriksaan ke dokter bila gejala tidak juga membaik setelah menjalani pengobatan</item>
+    </string-array>
+</resources>

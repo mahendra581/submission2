@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1535" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1535" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/drawable/ic_share.xml" value="0.1535" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/drawable/ic_wallpaper.xml" value="0.1535" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/font/data_font.xml" value="0.14351851851851852" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/font/menu_font.xml" value="0.22037037037037038" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout-v26/activity_detail.xml" value="0.12158054711246201" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/about_activity.xml" value="0.264" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/activity_about.xml" value="0.2296195652173913" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/activity_background.xml" value="0.12158054711246201" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/activity_detail_data.xml" value="0.22418478260869565" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/activity_main.xml" value="0.20606884057971014" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/background.xml" value="0.20427350427350427" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/layout/item_row.xml" value="0.21641791044776118" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/menu/menu_about.xml" value="0.25" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/menu/menu_back.xml" value="0.25" />
+        <entry key="..\:/BANGKIT 2023/SUBMISSION/SUBMISSION 2/app/src/main/res/menu/menu_share.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
